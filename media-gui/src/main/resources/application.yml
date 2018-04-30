@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: medias-gui
+server:
+  port: 9091

@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: medias-service
+  data:
+    mongodb:
+      port: 27017
+      host: localhost
+      database: media
+server:
+  port: 9090
+media:
+  path: ./temp
